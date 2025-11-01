@@ -76,6 +76,7 @@ df["Year"] = df["Date"].dt.year
 df["Month"] = df["Date"].dt.month
 
 print(df.head())
+```
 ## 5. Power BI Dashboard Development
 
 ### Dashboard Pages Created
@@ -136,12 +137,5 @@ The final output provides a data-backed understanding of where startup investmen
 - Data analytics enables better investment strategy and opportunity identification.
 - Interactive dashboards provide clear decision-making support for stakeholders.
 
----
 
-## 9. Future Scope
-
-- Use machine learning models for funding prediction.
-- Expand dataset to include valuation, revenue, and founder profiles.
-- Include investor network analysis for relationship mapping.
-- Integrate real-time funding APIs for continuous updates.
 
